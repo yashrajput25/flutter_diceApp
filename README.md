@@ -25,11 +25,9 @@ An interactive Flutter application that simulates rolling dice, providing a fun 
 
 ## **Screenshots**
 
-![Dice App Home Screen](assets/images/home_screen.png)
-*Main interface displaying the dice.*
-
-![Dice Roll Result](assets/images/roll_result.png)
-*Result after rolling the dice.*
+![Screenshot 2025-01-09 000452](https://github.com/user-attachments/assets/d7a58fcd-73f0-4cfd-9ab9-42e225c4d291)
+![Screenshot 2025-01-09 000442](https://github.com/user-attachments/assets/7311777a-0f83-48da-9b9e-d1fdf2664d4e)
+![Screenshot 2025-01-09 000504](https://github.com/user-attachments/assets/bcbc7b95-6754-4afa-a785-c3886dd0b50b)
 
 ## **Getting Started**
 
